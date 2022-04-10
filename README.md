@@ -1,8 +1,8 @@
 # tsogwf
-Its thing runs terraria server on Github workflow.
+It's thing runs terraria server on Github workflow.
 
 # Problems
-Rn it dont support world export/auto version updater(you can change version manually) but you still can use it for tests or something
+Right now it doesnt support world export or automated version updater(you can change version manually).
 
 # Original idea
-@Google61
+[Google61](https://github.com/Google61)
